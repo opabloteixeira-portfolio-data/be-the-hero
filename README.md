@@ -2,7 +2,6 @@
 
 ### Aplicação para o cadastro de casos com o objetivo de arrecadar ajuda para custos de procedimentos veterinários de animais em situação de rua.
 
-</br>
 ## 🗒️ Features do projeto 🗒️
 
 - Cadastro
